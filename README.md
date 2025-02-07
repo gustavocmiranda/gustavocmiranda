@@ -6,7 +6,7 @@
 
 - 🤔 Data enthusiast.
 - 🎓 Studying Computer Science at Universidade Federal Fluminense (UFF).
-- 💼 Looking for an intership opportunity to work with Data.
+- 💼 Projects and Data Analysis Intern
 - 🌱 Currently learning about Docker, dbt and Airflow.
 
 ## My Skills
